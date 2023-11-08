@@ -25,7 +25,6 @@ GitHub has provided a [help article](https://help.github.com/articles/setting-yo
 - `pip`
   - fade
   - rich
-  - time
   - dotenv
   - pystyle
   - requests
