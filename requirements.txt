@@ -1,6 +1,6 @@
 fade
 rich
-dotenv
+python-dotenv
 pystyle
 requests
 colorama
